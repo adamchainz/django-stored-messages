@@ -8,7 +8,7 @@ Django Stored Messages
         :target: https://coveralls.io/r/evonove/django-stored-messages
 
 .. image:: http://readthedocs.org/projects/django-stored-messages/badge/?version=latest
-    :target: http://django-stored-messages.readthedocs.org/en/latest/?badge=latest
+    :target: https://django-stored-messages.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. image:: https://badge.fury.io/py/django-stored-messages.png
@@ -45,10 +45,10 @@ if it's **not supported anymore**. Anyway, plan a migration to a newer version.
 Documentation
 -------------
 
-The full documentation is at http://django-stored-messages.rtfd.org. It includes `migration instructions`_ if you're
+The full documentation is at https://django-stored-messages.readthedocs.io. It includes `migration instructions`_ if you're
 migrating from an earlier version of ``stored_messages``.
 
-.. _migration instructions: http://django-stored-messages.readthedocs.org/en/latest/migrations.html
+.. _migration instructions: https://django-stored-messages.readthedocs.io/en/latest/migrations.html
 
 Quickstart
 ----------
